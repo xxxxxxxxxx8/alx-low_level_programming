@@ -1,0 +1,22 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables and binaries
+*.out
+a.out
+*.exe
+
+# Shared libraries (keep required project deliverables)
+*.so.*
+
+# macOS
+.DS_Store
+
+# Editors
+*.swp
+*~
+
+# Test artifacts
+__pycache__/
+*.pyc
